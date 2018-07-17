@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickmanX", "Assembly-CSharp-firstpass.csproj", "{75C05DBD-728F-9962-C9DE-0F80D9DF27DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickmanX", "Assembly-CSharp-Editor-firstpass.csproj", "{6581B68B-744E-4C9D-5C17-75D4C4D8087F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C05DBD-728F-9962-C9DE-0F80D9DF27DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C05DBD-728F-9962-C9DE-0F80D9DF27DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C05DBD-728F-9962-C9DE-0F80D9DF27DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C05DBD-728F-9962-C9DE-0F80D9DF27DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6581B68B-744E-4C9D-5C17-75D4C4D8087F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6581B68B-744E-4C9D-5C17-75D4C4D8087F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6581B68B-744E-4C9D-5C17-75D4C4D8087F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6581B68B-744E-4C9D-5C17-75D4C4D8087F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
